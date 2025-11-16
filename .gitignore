@@ -1,0 +1,47 @@
+# ATLP PUBLIC REPO — .gitignore
+# Prevents unnecessary local files from being committed
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# Build / dist outputs
+dist/
+build/
+
+# Python notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment configuration
+.env
+.env.local
+.env.*
