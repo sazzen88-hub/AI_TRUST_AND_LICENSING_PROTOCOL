@@ -45,3 +45,4 @@ build/
 .env
 .env.local
 .env.*
+/AI_TRUST_AND_LICENSING_PROTOCOL
