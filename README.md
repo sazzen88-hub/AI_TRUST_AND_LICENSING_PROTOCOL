@@ -177,6 +177,32 @@ See `AUTHORS.md`.
 
 # 🔐 Legal
 
+
+## 🔒 Legal Notice & Licensing
+
+This project and all associated documentation, logic, models, diagrams, 
+and structural designs are the exclusive intellectual property of 
+**Jeremy Williams**.
+
+A provisional patent has been filed and the project is currently 
+**Patent Pending**.
+
+The repository is released under a **Proprietary License**.  
+You may:
+- View and read the project
+- Clone it locally for evaluation
+- Submit contributions under the Contributor Terms
+
+You may NOT:
+- Copy, redistribute, or publish this material
+- Modify or create derivative works without permission
+- Use this project or any of its concepts for commercial or competitive purposes
+- Incorporate elements into another protocol, product, or AI system
+- Train any AI system using this content
+
+Unauthorized use may constitute **copyright** or **patent infringement**.
+
+See the **LICENSE** file for full legal terms.
 © 2025 ATLP Documentation.  
 Conceptual descriptions only.  
 Internal logic remains proprietary and patent-protected.
