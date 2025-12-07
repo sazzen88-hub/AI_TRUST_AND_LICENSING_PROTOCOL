@@ -58,24 +58,27 @@ ATLP_PUBLIC/
 ---
 
 # 🔎 Purpose of This Public Repository
+AI Trust & Licensing Protocol — Early Research Build
 
-This repository exists to:
+This repository contains early experimental work related to exploring trust, transparency, and verification in AI systems. The larger idea behind the project is still evolving, and this repo represents the first small steps — not a complete protocol or finished design.
 
-- Explain ATLP at a conceptual level  
-- Establish the direction and mission of the project  
-- Allow safe community participation  
-- Provide public-facing documentation for developers  
-- Support the future standardization pathway outlined in Step F  
-- Demonstrate the high-level architecture behind trust, authorship, licensing, and governance  
+Right now the focus is on simple, transparent tools that demonstrate the types of ideas this project aims to explore over time.
 
-It does **not** disclose:
-- internal trust-score math  
-- cryptographic evidence logic  
-- verification algorithms  
-- enforcement pipelines  
-- validator roles  
-- slashing or penalty internals  
-- architecture or flow diagrams from the private Master Specification  
+Included Tools
+
+Hash Integrity Verifier — a small utility for checking SHA-256 file integrity
+
+Mach Engine V1 — a fictional playground engine for experimentation and learning
+
+These tools are intended for exploration and education only.
+Nothing here should be considered production-ready or representative of any finalized system.
+
+Project Direction
+
+The overall vision is still being shaped. Rather than rushing a large system, this project will grow slowly and openly, starting with small experiments and expanding only when the ideas are clear and stable.
+
+If you'd like to follow along or explore the tools, feel free to look through the repository. More updates will come gradually and carefully.
+
 
 ---
 
